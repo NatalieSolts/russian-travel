@@ -12,12 +12,13 @@
 - использование Flex-box, Grid Layout;
 - использование относительных размеров для обеспечения адаптивности сайта;
 - псевдоэлементы;
-- медиазапросы для обеспчения адаптивности сайта.
+- медиазапросы для обеспчения адаптивности сайта;
+- кроссбраузерность.
 
 **Figma**
 
 - [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Figma**
+**Сайт проекта**
 
-- [Ссылка на сайт проекта](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+- [Ссылка на сайт проекта]()
