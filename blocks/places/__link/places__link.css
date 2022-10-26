@@ -1,8 +1,9 @@
 .places__link {
   font-weight: 400;
   font-size: 18px;
-  line-height: 122%;
-  text-decoration-line: underline;
+  line-height: 1.22;
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
   color: #FFF;
   padding-top: 12px;
 }
