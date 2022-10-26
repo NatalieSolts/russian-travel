@@ -21,4 +21,4 @@
 
 **Сайт проекта**
 
-- [Ссылка на сайт проекта]()
+- [Ссылка на сайт проекта](https://nataliesolts.github.io/russian-travel/)
