@@ -32,15 +32,13 @@
   .places__place {
     -ms-grid-columns: 300px 28px auto;
     grid-template-columns: 300px auto;
-    gap: 48px 28px;
-    padding-top: 73px;
   }
 }
 
 @media screen and (max-width: 568px) {
   .places__place {
-    -ms-grid-columns: 320px;
-    grid-template-columns: 320px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
     gap: 32px;
     padding-top: 50px;
   }

@@ -5,7 +5,6 @@
   line-height: 1.17;
   text-decoration: none;
   color: #FFF;
-  margin-right: 18px;
 }
 
 .header__lang-link:hover {
@@ -18,3 +17,4 @@
     line-height: 1.11;
   }
 }
+
